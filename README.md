@@ -9,9 +9,9 @@
 | Pessoa | Nome | Responsabilidade |
 |--------|------|-----------------|
 | 1 | Lucas de Jesus Barreto | Coleta e preparação do dataset |
-| 2 | Giovanna Salomão Rodrigues | Pré-processamento e vetorização |
-| 3 | Franklin Ferreira dos Santos | Treinamento do modelo |
-| 4 | Lucas Silva Oliveira | Avaliação, métricas e classificador |
+| 2 | Franklin Ferreira dos Santos | Pré-processamento e vetorização |
+| 3 | Lucas Silva Oliveira | Treinamento do modelo |
+| 4 | Giovanna Salomão Rodrigues | Avaliação, métricas e classificador |
 
 ---
 
